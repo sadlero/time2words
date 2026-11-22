@@ -28,7 +28,7 @@ pip install num2words
 Run the Python script:
 
 ```bash
-python main.py
+python time2words.py
 ```
 
 The program automatically reads your computer's current local time and converts it into words in standard American English.
